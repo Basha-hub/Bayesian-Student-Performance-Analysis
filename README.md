@@ -5,7 +5,7 @@
 ![Language](https://img.shields.io/badge/Language-R-blue)
 ![Modeling](https://img.shields.io/badge/Modeling-Bayesian%20Inference-brightgreen)
 
-## 📄 Overview
+## Overview
 
 This academic data science project focuses on predicting and analyzing student performance in mathematics exams. It leverages a dataset of 1,000 students' records to explore how **demographic and behavioral factors** (like lunch type and test preparation) influence their math scores.
 
@@ -19,7 +19,7 @@ The study compares a traditional Frequentist (OLS) model with a **Bayesian Linea
 
 ---
 
-## 💾 Project Contents
+## Project Contents
 
 | File Name | Description |
 | :--- | :--- |
@@ -29,7 +29,7 @@ The study compares a traditional Frequentist (OLS) model with a **Bayesian Linea
 
 ---
 
-## 🛠️ Setup and Execution
+## Setup and Execution
 
 ### Prerequisites
 
